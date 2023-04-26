@@ -1,5 +1,4 @@
 # NITOC-Robocon_HP
-リンク: [https://nitokc-robocon.github.io/NITOC-Robocon_HP/](https://nitokc-robocon.github.io/NITOC-Robocon_HP/)
 
 ## 概要
 沖縄工業高等専門学校 ロボット製作委員会の公式ホームページです。  
