@@ -8,5 +8,5 @@ Write overview.
 - [Wassy | Ryoga Washizawa](https://github.com/wassy310)
 
 ## 連絡先
-バグや修正依頼は[Issues]もしくは下記の連絡先までお願いいたします。
+バグや修正依頼は[Issues](https://github.com/NITOkC-Robocon/NITOC-Robocon_HP/issues)もしくは下記の連絡先までお願いいたします。
 - [Twitter](https://twitter.com/Robocon_NITOk)
