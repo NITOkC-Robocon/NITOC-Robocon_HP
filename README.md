@@ -1,7 +1,9 @@
 # NITOC-Robocon_HP
+リンク: [https://nitokc-robocon.github.io/NITOC-Robocon_HP/](https://nitokc-robocon.github.io/NITOC-Robocon_HP/)
 
 ## 概要
-Write overview.
+沖縄工業高等専門学校 ロボット製作委員会の公式ホームページです。  
+日本の最南端で活動するロボコニストの情報を発信していきます！
 
 ## 作成者
 - [Resenaga_Byakko](https://github.com/ByakkoMatsumiya)
