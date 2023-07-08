@@ -8,17 +8,21 @@ body {
 
 header {
   width: 100%;
-  padding: 15px 0;
+  padding: 5px 0;
   margin: 0 auto;
   text-align: center;
-  background-color: #282828;
+  background-color: #43B07C;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
 }
 .headline {
-  margin-bottom: 20px;
+  margin-bottom: auto;
+  margin-right: auto;
+  padding: 0 0;
+  width: 800px;
+  margin: 0 auto;
 }
 .nav-list {
   display: flex;
@@ -28,15 +32,18 @@ header {
   margin: 0;
   justify-content: center;
   align-items: center;
+  font-family: 'Zen Kaku Gothic New', sans-serif;
+  font-size: 25px;
 }
 .nav-list li {
-  margin-right: 20px;
+  margin-right: 60px;
+  margin-bottom: 20px;
 }
 .nav-list li:last-child {
   margin-right: 0;
 }
 header {
-    color: #fff;
+  color: #fff;
 }
 
 h1 {
@@ -57,6 +64,19 @@ h4 {
 p {
   text-align: center;
   margin-bottom: 30px;
+}
+
+a {
+  text-decoration-line: none;
+}
+a:hover {
+  opacity: 0.7;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: bottom;
 }
 
 .parent {
